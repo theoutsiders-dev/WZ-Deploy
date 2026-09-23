@@ -12,7 +12,7 @@
 <details>
   <summary><b>Expand All Steps to Deploy <sup><kbd>Click Here</kbd></sup></b></summary>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PainKiller3/WZ-Deploy/blob/wzv3.1.3/wzv3_hk_deploy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/theoutsiders-dev/WZ-Deploy/blob/wzv3.1.3/wzv3_hk_deploy.ipynb)
 
 **Step 1 :** 
 
@@ -31,7 +31,7 @@
 > Make sure git is Installed in your system or quick run `apt-get install git pip curl -y`
 
 ```shell
-git clone https://github.com/PainKiller3/WZ-Deploy wzbot && cd wzbot
+git clone https://github.com/theoutsiders-dev/WZ-Deploy wzbot && cd wzbot
 ```
 
 **Step 2 :** Now Install Heroku in your Sytem or checkout Official Heroku Deploy Docs, or Download via `apt-get` or `npm`
